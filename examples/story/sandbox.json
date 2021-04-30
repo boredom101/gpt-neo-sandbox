@@ -1,0 +1,13 @@
+{
+    "title": "Story Teller",
+    "input": {
+        "mode": "singleline",
+        "prompt": "Name"
+    },
+    "output": {
+        "offset": 0
+    },
+    "backend": {
+        "model": "gpt-neo-2.7B"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Math Solver",
+    "input": {
+        "mode": "singleline",
+        "prompt": "Problem"
+    },
+    "output": {
+        "offset": 90,
+        "plus": true
+    },
+    "backend": {
+        "model": "gpt-neo-2.7B"
+    }
+}

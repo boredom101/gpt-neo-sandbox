@@ -1,0 +1,9 @@
+Solve the math problem:
+Problem: 6 - 9
+Solution: -3
+###
+Problem: 7 + 1
+Solution: 8
+###
+Problem: {input}
+Solution: 
