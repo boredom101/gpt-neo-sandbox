@@ -1,5 +1,7 @@
 # GPT-Neo Sandbox
 
+![Screencast](./screencast.gif)
+
 Qucikly make project demos based on GPT-Neo.
 
 ## Setting Up
